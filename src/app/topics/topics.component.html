@@ -1,0 +1,10 @@
+<div class="row container">
+  <div class="bg-dark text-white col-sm-4" style="width:20rem;" *ngFor="let quiz of quiz ">
+    <img class="card-img img-fluid rounded-circle" src="{{quiz.quizImg}}" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">{{quiz.topicName}}</h5>
+        <p class="card-text">{{quiz.quizDescription}}</p>
+        <a class="btn btn-primary col-lg-4" *ngFor="let Level of quiz.Levels" (click)="call(quiz.topicName,Level.levelName)" >{{Level.levelName}}</a>
+      </div>
+  </div>     
+</div>

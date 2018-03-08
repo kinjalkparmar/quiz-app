@@ -1,0 +1,20 @@
+<div class="container">
+    <div class="row">
+        <div class="col-lg-4">
+            <h4>Topic Selected: {{name}}</h4>
+        </div>
+        <div class="col-lg-4">
+            <h4>Level selected: {{levelname}}</h4>
+        </div>
+      </div>
+    <div class="row">
+      <button class="btn btn-primary" *ngIf="beginButton" (click)="startQuiz()">Start Quiz</button>
+      <button class="btn btn-primary" *ngIf="!beginButton"(click)="prevQuestion()">Previous Question</button>
+      <button class="btn btn-primary" *ngIf="!beginButton"(click)="nextQuestion()" >Next Question</button>
+
+    </div>  
+
+    <app-question *ngIf="!beginButton" [options]="options" [questionid]="questionid" [question]="question" [answers]="answers"></app-question>
+
+</div>
+

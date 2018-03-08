@@ -1,0 +1,30 @@
+
+<!--<div *ngIf="!showResult">
+    <h1>{{questionid}}</h1>
+    <h1>{{question.question}}</h1>
+    <div class="form-group row" *ngFor="let option of options;let i=index">
+        <input type="radio" name="radiogroup" [checked]="i+1==isSelected()"
+            [value]="option.optionId"(change)="selectedOption(option,i)"> {{option.option}}
+     </div>
+ 
+   <button type="button" class="btn btn-success" [disabled]="!submit"(click)="checkAnswers()">Submit</button>
+</div>
+
+<h1 *ngIf="showResult">You have got {{score}} Questions Correct</h1> -->
+
+<div class="jumbotron" *ngIf="!showResult">
+    <h1 class="display-3">{{questionid}}-{{question.question}}</h1>
+    <hr class="my-4">
+    <div class="form-group row" *ngFor="let option of options;let i=index">
+        <input type="radio" name="radiogroup" [checked]="i+1==isSelected()"
+            [value]="option.optionId"(change)="selectedOption(option,i)"> {{option.option}}
+     </div>
+    <p class="lead">
+        <button type="button" class="btn btn-success" [disabled]="!submit"(click)="checkAnswers()">Submit</button>
+    </p>
+  </div>
+  <div class="jumbotron" *ngIf="showResult">
+      <h1 class="display-3" *ngIf="showResult">You have got {{score}} Questions Correct</h1>
+  </div>
+  
+     

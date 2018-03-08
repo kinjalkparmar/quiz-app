@@ -1,0 +1,585 @@
+[{
+    "id": 1,
+    "quizDescription":"Have A Little fun with Science",
+    "topicName": "Science",
+    "quizImg": "https://cdn3.iconfinder.com/data/icons/unigrid-phantom-science-vol-1/60/003_014_nuclear_atom_corpuscle_energy_physics_science-256.png",
+    "Levels": [{
+      "levelId": 1.1,
+      "levelName": "Easy",
+      "questions":[{
+        "questionId": 1,
+        "question": "An example of a solid is:",
+        "answerId": 2,
+        "options": [{
+          "optionId": 1,
+          "option": "Oxygen"
+        },
+        {
+          "optionId": 2,
+          "option": "Ice"
+        },
+        {
+          "optionId": 3,
+          "option": "Orange Juice"
+        },
+        {
+          "optionId": 4,
+          "option": "Fire"
+        }
+       
+      ]
+      },
+      {
+        "questionId": 2,
+        "question": "An example of a liquid is:",
+        "answerId": 1,
+        "options": [{
+          "optionId": 1,
+          "option": "Saliva"
+        },
+        {
+          "optionId": 2,
+          "option": "Watermelon"
+        },
+        {
+          "optionId": 3,
+          "option": "Cottage Cheese"
+        },
+        {
+          "optionId": 4,
+          "option": "Rancher"
+        }
+      ]
+      },
+      {
+        "questionId": 3,
+        "question": "When you freeze water you are:",
+        "answerId": 2,
+        "options": [{
+          "optionId": 1,
+          "option": "Making it smaller"
+        },
+        {
+          "optionId": 2,
+          "option": "Taking away heat"
+        },
+        {
+          "optionId": 3,
+          "option": "Adding heat"
+        },
+        {
+          "optionId": 4,
+          "option": "Adding 'Coldness'"
+        }
+      ]
+      },
+      {
+        "questionId": 4,
+        "question": "What is it called when something goes from a liquid to solid state?",
+        "answerId": 1,
+        "options": [{
+          "optionId": 1,
+          "option": "Freezing"
+        },
+        {
+          "optionId": 2,
+          "option": "Melting"
+        },
+        {
+          "optionId": 3,
+          "option": "Steaming"
+        },
+        {
+          "optionId": 4,
+          "option": "Hardening"
+        }
+      ]
+      },
+      {
+        "questionId": 5,
+        "question": "If you put a solid into a new container it will:",
+        "answerId": 3,
+        "options": [{
+          "optionId": 1,
+          "option": "Explode"
+        },
+        {
+          "optionId": 2,
+          "option": "change its size but not its shape"
+        },
+        {
+          "optionId": 3,
+          "option": "remain the same size and shape"
+        },
+        {
+          "optionId": 4,
+          "option": "change its shape, but not its size"
+        }
+      ]
+      }
+   ]
+    },
+  
+    {
+      "levelId": 1.2,
+      "levelName": "Medium",
+      "questions":[{
+        "questionId": 1,
+        "question": "What is not a common method used to measure a solid?",
+        "answerId": 2,
+        "options": [{
+          "optionId": 1,
+          "option": "Height"
+        },
+        {
+          "optionId": 2,
+          "option": "Weight"
+        },
+        {
+          "optionId": 3,
+          "option": "Length"
+        },
+        {
+          "optionId": 4,
+          "option": "Volume"
+        }
+       
+      ]
+      },
+      {
+        "questionId": 2,
+        "question": "Which phase of matter does not like to change its shape?",
+        "answerId": 1,
+        "options": [{
+          "optionId": 1,
+          "option": "Solid"
+        },
+        {
+          "optionId": 2,
+          "option": "Gas"
+        },
+        {
+          "optionId": 3,
+          "option": "Liquid"
+        },
+        {
+          "optionId": 4,
+          "option": "All of the above"
+        }
+      ]
+      },
+      {
+        "questionId": 3,
+        "question": "When we talk about matter in science, what do we mean?",
+        "answerId": 1,
+        "options": [{
+          "optionId": 1,
+          "option": "Anything that takes up space"
+        },
+        {
+          "optionId": 2,
+          "option": "How heavy something is."
+        },
+        {
+          "optionId": 3,
+          "option": "Something important"
+        },
+        {
+          "optionId": 4,
+          "option": " How much of something there is."
+        }
+      ]
+      },
+      {
+        "questionId": 4,
+        "question": "When you boil water, the amount of liquid in the pot will decrease. But where does the water go?",
+        "answerId": 1,
+        "options": [{
+          "optionId": 1,
+          "option": "Into the air as steam"
+        },
+        {
+          "optionId": 2,
+          "option": "It dissapears"
+        },
+        {
+          "optionId": 3,
+          "option": "When you boil water, you make the water shrink"
+        },
+        {
+          "optionId": 4,
+          "option": " No one knows!"
+        }
+      ]
+      },
+      {
+        "questionId": 5,
+        "question": "What does salt do to ice?",
+        "answerId": 4,
+        "options": [{
+          "optionId": 1,
+          "option": "Makes it harder"
+        },
+        {
+          "optionId": 2,
+          "option": "Makes it evaporate"
+        },
+        {
+          "optionId": 3,
+          "option": "Turns to gas"
+        },
+        {
+          "optionId": 4,
+          "option": " Melts it"
+        }
+      ]
+      }
+   ]
+    },
+    {
+      "levelId": 1.3,
+      "levelName": "Hard",
+      "questions":[{
+        "questionId": 1,
+        "question": "Which animal has a pupa stage in its life cycle?",
+        "answerId": 2,
+        "options": [{
+          "optionId": 1,
+          "option": "Cardinal"
+        },
+        {
+          "optionId": 2,
+          "option": "Mealworm"
+        },
+        {
+          "optionId": 3,
+          "option": "Dogs"
+        },
+        {
+          "optionId": 4,
+          "option": "Human"
+        }
+       
+      ]
+      },
+      {
+        "questionId": 2,
+        "question": "How many legs do Arachnids have?",
+        "answerId": 1,
+        "options": [{
+          "optionId": 1,
+          "option": "8"
+        },
+        {
+          "optionId": 2,
+          "option": "10"
+        },
+        {
+          "optionId": 3,
+          "option": "6"
+        },
+        {
+          "optionId": 4,
+          "option": "4"
+        }
+      ]
+      },
+      {
+        "questionId": 3,
+        "question": "What do you call the series of changes that many animals go through in life?",
+        "answerId": 1,
+        "options": [{
+          "optionId": 1,
+          "option": "A Life Cycle"
+        },
+        {
+          "optionId": 2,
+          "option": "Myriapod"
+        },
+        {
+          "optionId": 3,
+          "option": "The Circle of Life"
+        },
+        {
+          "optionId": 4,
+          "option": "Food Chain"
+        }
+      ]
+      },
+      {
+        "questionId": 4,
+        "question": "What is a scientist who studies the weather called?",
+        "answerId": 4,
+        "options": [{
+          "optionId": 1,
+          "option": "Geologist"
+        },
+        {
+          "optionId": 2,
+          "option": "Biologist"
+        },
+        {
+          "optionId": 3,
+          "option": "Astronomer"
+        },
+        {
+          "optionId": 4,
+          "option": "Meteorologist"
+        }
+      ]
+      },
+      {
+        "questionId": 5,
+        "question": "What does a wind vane tell us about the wind?",
+        "answerId": 2,
+        "options": [{
+          "optionId": 1,
+          "option": "Where it is going"
+        },
+        {
+          "optionId": 2,
+          "option": "Where it is coming from"
+        },
+        {
+          "optionId": 3,
+          "option": "How strong it is"
+        },
+        {
+          "optionId": 4,
+          "option": "its name"
+        }
+      ]
+      }
+   ]
+    }]
+},
+
+
+
+
+
+{
+  "id": 2,
+  "quizDescription":"Have A Little fun with Numbers",
+  "quizImg": "http://www.iquestaustin.com/uploads/1/7/6/1/17614643/3069044_orig.png?100",
+  "topicName": "Math",
+  "Levels": [{
+    "levelId": 2.1,
+    "levelName": "Easy",
+    "questions":[{
+      "questionId": 1,
+      "question": "Which of the following is not a composite number?",
+      "answerId": 2,
+      "options": [{
+        "optionId": 1,
+        "option": "13"
+      },
+      {
+        "optionId": 2,
+        "option": "14"
+      },
+      {
+        "optionId": 3,
+        "option": "15"
+      },
+      {
+        "optionId": 4,
+        "option": "16"
+      }
+     
+    ]
+    },
+    {
+      "questionId": 2,
+      "question": "A group of middle school student has made $46.5 by selling lemonade. They charged $1.5 for a cup of lemonade. How many cups of lemonade did they sell?",
+      "answerId": 3,
+      "options": [{
+        "optionId": 1,
+        "option": "33"
+      },
+      {
+        "optionId": 2,
+        "option": "25"
+      },
+      {
+        "optionId": 3,
+        "option": "31"
+      },
+      {
+        "optionId": 4,
+        "option": "21"
+      }
+    ]
+    },
+    {
+      "questionId": 3,
+      "question": "Peter went to 3 classes daily for 5 consecutive days. The number of classes Peter attended may be calculated by:",
+      "answerId": 2,
+      "options": [{
+        "optionId": 1,
+        "option": "subtracting 3 from 5"
+      },
+      {
+        "optionId": 2,
+        "option": "multiplying 3 by 5"
+      },
+      {
+        "optionId": 3,
+        "option": "adding 5 with 3"
+      },
+      {
+        "optionId": 4,
+        "option": "dividing 5 by 3"
+      }
+    ]
+    },
+    {
+      "questionId": 4,
+      "question": "Which digit is the thousands digit in the number 23,090,562?",
+      "answerId": 3,
+      "options": [{
+        "optionId": 1,
+        "option": "6"
+      },
+      {
+        "optionId": 2,
+        "option": "9"
+      },
+      {
+        "optionId": 3,
+        "option": "0"
+      },
+      {
+        "optionId": 4,
+        "option": "5"
+      }
+    ]
+    },
+    {
+      "questionId": 5,
+      "question": "Which fraction is equivalent to 2/5?",
+      "answerId": 4,
+      "options": [{
+        "optionId": 1,
+        "option": "10/30"
+      },
+      {
+        "optionId": 2,
+        "option": "5/2"
+      },
+      {
+        "optionId": 3,
+        "option": "5/20"
+      },
+      {
+        "optionId": 4,
+        "option": "12/30"
+      }
+    ]
+    }
+ ]
+  },
+
+  {
+    "levelId": 2.2,
+    "levelName": "Medium",
+    "questions":[{
+      "questionId": 1,
+      "question": "What is Math1",
+      "answerId": 2,
+      "options": [{
+        "optionId": 1,
+        "option": "1st option1"
+      },
+      {
+        "optionId": 2,
+        "option": "2st option1"
+      },
+      {
+        "optionId": 3,
+        "option": "3st option1"
+      },
+      {
+        "optionId": 4,
+        "option": "4st option1"
+      }
+     
+    ]
+    },
+    {
+      "questionId": 2,
+      "question": "What is algorithm1",
+      "answerId": 1,
+      "options": [{
+        "optionId": 1,
+        "option": "1st algorithm1"
+      },
+      {
+        "optionId": 2,
+        "option": "2st algorithm1"
+      },
+      {
+        "optionId": 3,
+        "option": "3st algorithm1"
+      },
+      {
+        "optionId": 4,
+        "option": "4st algorithm1"
+      }
+    ]
+    }
+ ]
+  },
+  {
+    "levelId": 2.3,
+    "levelName": "Hard",
+    "questions":[{
+      "questionId": 1,
+      "question": "What is Math2",
+      "answerId": 2,
+      "options": [{
+        "optionId": 1,
+        "option": "1st option2"
+      },
+      {
+        "optionId": 2,
+        "option": "2st option2"
+      },
+      {
+        "optionId": 3,
+        "option": "3st option2"
+      },
+      {
+        "optionId": 4,
+        "option": "4st option2"
+      }
+     
+    ]
+    },
+    {
+      "questionId": 2,
+      "question": "What is algorithm2",
+      "answerId": 1,
+      "options": [{
+        "optionId": 1,
+        "option": "1st algorithm2"
+      },
+      {
+        "optionId": 2,
+        "option": "2st algorithm2"
+      },
+      {
+        "optionId": 3,
+        "option": "3st algorithm2"
+      },
+      {
+        "optionId": 4,
+        "option": "4st algorithm2"
+      }
+    ]
+    }
+ ]
+  }]
+}
+
+]
